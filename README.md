@@ -8,7 +8,7 @@
 - #### Fernanda Mayara Severino
 
 ## Descrição:
-  Temos um **Diagrama de Caso de uso** e **Diagrama de Classe** para ajudar no entendimento visual que não só facilita o entendimento como também para ter uma referencia menos abstrata, os cenários de uso estão bem explicados e organizados em tópicos para que seja possível focar em um por vez.
+  Apresentamos a seguir **Diagrama de Caso de uso** e **Diagrama de Classe** de um projeto de um sistema voltado a gestão de dados de uma grande universidade. Apresentando alguns casos de uso com tópicos principais e alternativos para cada tipo de cadastro a ser realizado no sistema da universidade. Além disto apresentamos também um prototipo funcional utilizando figma para facilitar o entendimento do nosso projeto.
 
 ## Cenários de caso de uso:
 - Cadastro de Pessoa Física.
@@ -33,16 +33,3 @@
 >endereco | id_endereco
 >telefone | id_telefone
 
-
-# Anotação para o silvestre
-Se voce achar bom colocar outras classes recomendo usar a mesma tabela de cima por isso irei deixar uma copia da estrutura aqui em baixo.
-
-> ## Nome da classe.
->Var   | Type
->--------- | ------
->id | intenger
->nome | varchar
->dataNascimento | date/time
->ativo | varchar
->endereco | id_endereco
->telefone | id_telefone
