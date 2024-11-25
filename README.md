@@ -22,7 +22,7 @@
 > - Cenário Alternativo 2.
 
 div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
+img src="https://github.com/user-attachments/assets/7b951706-1d06-4ca1-93e7-20f93b2f5b74" width="0px" /
 /div
 ### Prototipo Figma:
   https://www.figma.com/proto/5hxqtEGhppE0FuL8vjPmak/Senac-prototipo?node-id=121-133&node-type=canvas&t=z3B74dMzKuJq6T7V-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
