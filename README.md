@@ -35,7 +35,7 @@
 >endereco | id_endereco
 >telefone | id_telefone
 
-
+https://github.com/user-attachments/assets/7b951706-1d06-4ca1-93e7-20f93b2f5b74
 
 # Cenários de Caso de Uso
 
