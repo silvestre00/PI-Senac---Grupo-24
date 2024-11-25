@@ -175,3 +175,6 @@
 
 Essas descrições detalham os cenários para os casos de uso solicitados, cobrindo tanto o fluxo principal quanto os alternativos, assim como as pré-condições e pós-condições para garantir a consistência no sistema.
 
+### Diagrama de Caso de Uso:
+![Captura de tela 2024-11-25 185111](https://github.com/user-attachments/assets/b7d55965-b809-427f-9531-d15fd184c2fc)
+![Captura de tela 2024-11-25 185125](https://github.com/user-attachments/assets/caf2014a-cdf0-40f5-bb2d-aa89c319983d)
