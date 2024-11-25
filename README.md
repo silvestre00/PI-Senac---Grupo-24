@@ -1,5 +1,5 @@
 # Modelagem de um Sistema Orientado a Objetos
-> Senac EAD - Projeto Integrador. <https://www.ead.senac.br/>
+> Senac EAD - Projeto Integrador.
 #### Integrantes:
 - #### Silvestre Alves de Almeida Neto
 - #### Vinicius da Silva Ferreira
@@ -21,6 +21,8 @@
 > - Cenário Alternativo 1.
 > - Cenário Alternativo 2.
 
+##Prototipo Figma
+  https://www.figma.com/proto/5hxqtEGhppE0FuL8vjPmak/Senac-prototipo?node-id=121-133&node-type=canvas&t=z3B74dMzKuJq6T7V-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 ### Aqui esta a __classe principal__ para ajudar no entendimento das demais e do conteúdo deste repositório.
 
 > ## Pessoa.
